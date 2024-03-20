@@ -7,7 +7,7 @@
 
 <div class="section bg-white">
 	<div class="img-wrapper">
-		<img src="/imgs/ribbon.webp" alt="재우 ♥ 채연" loading="lazy" />
+		<img src="/gif/ribbon.webp" alt="재우 ♥ 채연" loading="lazy" />
 	</div>
 	<div class="text-wrapper">
 		<p class="sub-title">{subTitle}</p>
@@ -23,7 +23,7 @@
 		<img src="/imgs/signature.webp" alt="SO and BAE's signature" loading="lazy" />
 	</div>
 	<div class="mx-auto max-w-xs px-16 pt-6 sm:px-0">
-		<img src="/imgs/date.webp" alt="SO and BAE's wedding date" loading="lazy" />
+		<img src="/gif/date.webp" alt="SO and BAE's wedding date" loading="lazy" />
 	</div>
 </div>
 

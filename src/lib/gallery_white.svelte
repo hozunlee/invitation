@@ -10,6 +10,9 @@
 	<div class="text-wrapper">
 		<p class="sub-title">Gallery</p>
 		<h2 class="mt-2">우리의 순간</h2>
+		<div class="mx-auto max-w-xs px-16 pt-6 sm:px-0">
+			<img src="/gif/signature.webp" alt="SO and BAE's wedding date" loading="lazy" />
+		</div>
 	</div>
 </div>
 
